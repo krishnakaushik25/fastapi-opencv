@@ -23,11 +23,11 @@ or [image detection](https://lionbridge.ai/articles/create-an-end-to-end-object-
 - Create a UI based app using [Streamlit](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582) using our FastAPI API.
 
 
- Works well with user-uploaded images as well as URL based images. Here is a cat image for some of you cat enthusiasts as well.
-
-![](https://mlwhiz.com/images/deployment_fastapi/23.png)![](https://mlwhiz.com/images/deployment_fastapi/24.png) Works well with user-uploaded images as well as URL based images. Here is a cat image for some of you cat enthusiasts as well.
+ Works well with user-uploaded images as well as URL based images.
 
 ![](https://mlwhiz.com/images/deployment_fastapi/23.png)![](https://mlwhiz.com/images/deployment_fastapi/24.png)
+
+
 
 
 Huge Thanks to this [MLWHIZ blog](https://mlwhiz.com/blog/2020/08/08/deployment_fastapi/)
