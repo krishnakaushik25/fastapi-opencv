@@ -4,4 +4,4 @@ torchvision
 torch
 fastapi
 pydantic
-opencv-python
+opencv-python-headless
